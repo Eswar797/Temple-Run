@@ -44,8 +44,8 @@ A web-based implementation of the popular Temple Run game built with HTML5 Canva
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/temple-run-web.git
-cd temple-run-web
+git clone https://github.com/Eswar797/Temple-Run.git
+cd Temple-Run
 ```
 
 2. Open `index.html` in your web browser:
@@ -64,7 +64,7 @@ npx http-server
 ## 📁 Project Structure
 
 ```
-temple-run-web/
+Temple-Run/
 │
 ├── index.html      # Main HTML file with game structure
 ├── style.css       # Styling and UI design
@@ -140,4 +140,3 @@ Created as a fun web game project.
 ---
 
 **Enjoy the game and see how far you can run! 🏃‍♂️💨**
-
